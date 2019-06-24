@@ -1,7 +1,7 @@
 # CCBDA-2019-Spring-0760816
 NCTU CCBDA (2019 Spring) Homework Repository
 
-HW4 - Implement PySpark for Churn Prediction on unbalanced dataset
+HW4 - Churn Prediction on Unbalanced Dataset by PySpark
 
 References
 
