@@ -1,4 +1,4 @@
-# CCBDA-2019-Spring-0760816
+# CCBDA-2019-Spring
 NCTU CCBDA (2019 Spring) Homework Repository
 
 HW4 - Churn Prediction on Unbalanced Dataset by PySpark
