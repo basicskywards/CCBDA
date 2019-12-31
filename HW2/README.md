@@ -1,4 +1,4 @@
-# CCBDA-2019-Spring-0760816
+# CCBDA-2019-Spring
 NCTU CCBDA (2019 Spring) Homework Repository
 
 HW2 - Implement PrefixSpan for Sequential Pattern Mining
