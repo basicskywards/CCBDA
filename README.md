@@ -1,2 +1,2 @@
 # CCBDA-2019-Spring
-NCTU CCBDA (2019 Spring) Homework Repository
+NCTU Cloud Computing & Big Data Analytics (CCBDA) (2019 Spring) Homework Repository
